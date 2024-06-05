@@ -1,0 +1,2 @@
+let inputSubmit = document.getElementById("submitButton");
+  inputSubmit.addEventListener("click",function(e) {e.preventDefault(); alert("Thank you for submitting this form! You are the skibbidiest rizzler");})
